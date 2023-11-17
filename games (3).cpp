@@ -1,7 +1,5 @@
 /* Name: Nathan Lindblade
 Date: 3/2/2023
-Assignment: Homework 5
-Due Date: 3/7/2023
 About this project: Allows user to play 3 games and view their statistics
 Assumptions: Assumes user enters valid numbers
 All work below was performed by Nathan Lindblade */
